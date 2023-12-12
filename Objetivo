@@ -1,0 +1,20 @@
+Preciso de um metodo no excel que crie graficos (pareto) para um pequeno projetinho pessoal meu.
+
+Em resumo seria a adição de varias peças (em torno de 100 peças) contendo a data de produção e os defeitos (são 10 defeitos)
+Defeitos;
+1-Bolha
+2-Falha
+3-Furo
+4-Furo de injeção
+5-Corte/rasgo
+6-Crua
+7-Impureza
+8-Rosca falhada
+9-Queimada
+10-Deformações.
+
+Ja tentei criar de varias maneiras porém todas as vezes que as peças são adicionadas não são oferecidos os gráficos que necessito.
+Lembrando que precisa ser algo rápido, é mais para o dia a dia meio que um copia e cola (vou para outra pasta onde exista os produtos produzidos,
+faço a copia e logo em seguida jogaria para essa planilha)
+
+Praticamente é isso....quem conseguir me dar uma mão ficarei grato....
